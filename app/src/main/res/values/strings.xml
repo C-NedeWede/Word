@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">Dictation</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="title">Calculation Test</string>
+    <string name="imageButtonDescription" translatable="false">Description</string>
+    <string name="start">Start</string>
+    <string name="imagViewDescription" translatable="false">Description</string>
+    <string name="buttonBack">back</string>
+    <string name="button1" translatable="false">1</string>
+    <string name="button2" translatable="false">2</string>
+    <string name="button3" translatable="false">3</string>
+    <string name="button4" translatable="false">4</string>
+    <string name="button5" translatable="false">5</string>
+    <string name="button6" translatable="false">6</string>
+    <string name="button7" translatable="false">7</string>
+    <string name="button8" translatable="false">8</string>
+    <string name="button9" translatable="false">9</string>
+    <string name="button0" translatable="false">0</string>
+    <string name="buttonClear" translatable="false">c</string>
+    <string name="buttonSubmit">Submit</string>
+    <string name="newRecord">New Record: %d</string>
+    <string name="score">Score: %d</string>
+    <string name="operator" translatable="false" />
+    <string name="quit_dialog_name">Are you sure to quit?</string>
+    <string name="dialog_positive_msg">OK</string>
+    <string name="dialog_negeative_msg">Cancel</string>
+    <string name="currentScore">Score:%d</string>
+    <string name="leftnumber_msg" translatable="false" />
+    <string name="rightnumber_msg" translatable="false" />
+    <string name="equal" translatable="false">=</string>
+    <string name="result" translatable="false">\?</string>
+    <string name="highScore">HighScore:%d</string>
+    <string name="winflag">Win</string>
+    <string name="loseflag">Defeat</string>
+    <string name="input_indicator">Please Input Your Answer</string>
+    <string name="correct_msg">Correct! Go on!</string>
+    <string name="Title">Welcome</string>
+    <string name="content">Challeging</string>
+
+</resources>

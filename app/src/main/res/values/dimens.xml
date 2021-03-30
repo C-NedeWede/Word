@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="small_font">30sp</dimen>
+    <dimen name="huge_font">60sp</dimen>
+    <dimen name="ResultTextSize">36sp</dimen>
+    <dimen name="buttonNumLandSize">24sp</dimen>
+    <dimen name="min_font">20sp</dimen>
+    <dimen name="buttonSize">14sp</dimen>
+</resources>
